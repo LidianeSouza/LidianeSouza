@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo sobre Inteligência Artificial aplicada a dados e computação em nuvem
 - 💞️ Estou procurando colaborar em projetos que envolvam análise de dados, automação inteligente e soluções em nuvem
 - 📫 Como entrar em contato comigo: lidisz@outlook.com
-- 😄 Pronomes: Ela/Dela (ou como preferir)
+- 😄 Pronomes: Ela/Dela 
 - ⚡ Curiosidade: Estou migrando de carreira para a área de tecnologia e explorando esse novo mundo cheio de desafios e oportunidades!
 
 
