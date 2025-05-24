@@ -1,5 +1,5 @@
 - Olá, sou @LidianeSouza
-- 👀 Estou interessado em Banco de Dados, IA e Cloud Computing
+- 👀 Estou interessada em Banco de Dados, IA e Cloud Computing
 - 🌱 Atualmente estou aprendendo sobre Inteligência Artificial aplicada a dados e computação em nuvem
 - 💞️ Estou procurando colaborar em projetos que envolvam análise de dados, automação inteligente e soluções em nuvem
 - 📫 Como entrar em contato comigo: lidisz@outlook.com
