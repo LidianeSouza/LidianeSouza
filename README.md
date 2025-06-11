@@ -12,7 +12,7 @@ Este é meu espaço para compartilhar minha jornada cheia de códigos, dados e d
 - 🔍 Estou explorando o mundo da tecnologia, principalmente através do aprendizado prático no dia a dia.
 - 👀 Tenho me dedicado a áreas como Banco de Dados, Python, Power BI, Inteligência Artificial e Cloud Computing.
 - 🤝 Gosto de trocar experiências, colaborar e compartilhar conhecimento com quem também trilhando esse caminho.
-- ⚡ Estou em transição de carreira, migrando para a área de tecnologia, um universo novo e cheio de desafios, mas também de grandes oportunidades!
+- 💼 Estou em transição de carreira, migrando para a área de tecnologia, um universo novo pra mim, mas cheio de possibilidades.
 - 💞️ Quero colaborar com projetos que envolvam análise de dados, automação inteligente e soluções em nuvem, onde eu possa aprender e contribuir de verdade.
 
 ---
