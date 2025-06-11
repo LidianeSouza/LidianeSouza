@@ -1,7 +1,8 @@
 <h1 align="center">Olá, aqui é a Lidiane 👋🏼</h1>
 
 <p align="center">
-Adoro aprender coisas novas todos os dias e estou encantadaa com o mundo da tecnologia e seus desafios.<br>Este é meu espaço para compartilhar minha jornada cheia de códigos, dados e descobertas. Espero que gostem! 💜 
+Adoro aprender coisas novas todos os dias e estou encantada com o mundo da tecnologia e seus desafios.<br>
+Este é meu espaço para compartilhar minha jornada cheia de códigos, dados e descobertas. Espero que gostem! 💜
 </p>
 
 ---
