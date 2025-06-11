@@ -38,6 +38,8 @@ Este é um espaço onde compartilho minha jornada com código, dados e desenvolv
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LidianeSouza&layout=compact&theme=radical)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LidianeSouza&repo=sistema-bancario-inteligente &bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LidianeSouza/sistema-bancario-inteligente)
+
 </div>
 
 ---
