@@ -1,56 +1,32 @@
-- Olá, sou @LidianeSouza
-- 👀 Estou interessada em Banco de Dados, Power BI, IA e Cloud Computing
-- 🌱 Atualmente estou aprendendo sobre Inteligência Artificial aplicada a dados e computação em nuvem
-- 💞️ Estou procurando colaborar em projetos que envolvam análise de dados, automação inteligente e soluções em nuvem
-- 📫 Como entrar em contato comigo: lidisz@outlook.com
-- 😄 Pronomes: Ela/Dela 
-- ⚡ Curiosidade: Estou migrando de carreira para a área de tecnologia e explorando esse novo mundo cheio de desafios e oportunidades!
-
-
-<!---
-LidianeSouza/LidianeSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<h1 align="center">Olá, eu sou a Lidiane 👋</h1>
+<h1 align="center">Olá, aqui é a Lidiane 👋🏼</h1>
 
 <p align="center">
-Sou apaixonada por aprendizado contínuo, tecnologia e desafios.  
-Este é um espaço onde compartilho minha jornada com código, dados e desenvolvimento profissional.
+Adoro aprender coisas novas todos os dias e estou encantadaa com o mundo da tecnologia e seus desafios.<br>Este é meu espaço para compartilhar minha jornada cheia de códigos, dados e descobertas. Espero que gostem! 💜 
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🌟 Sobre mim
 
-- 🔍 Explorando o mundo da tecnologia, com foco em aprendizado prático.
-- 📊 Interesso-me por dados, automação, análise e ferramentas como Power BI.
-- 🤝 Sempre buscando colaborar e compartilhar conhecimento.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidianeSouza&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LidianeSouza&layout=compact&theme=radical)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LidianeSouza&repo=sistema-bancario-inteligente&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LidianeSouza/sistema-bancario-inteligente)
-
-</div>
+- 🔍 Estou explorando o mundo da tecnologia, principalmente através do aprendizado prático no dia a dia.
+- 👀 Tenho me dedicado a áreas como Banco de Dados, Python, Power BI, Inteligência Artificial e Cloud Computing.
+- 🤝 Gosto de trocar experiências, colaborar e compartilhar conhecimento com quem também trilhando esse caminho.
+- ⚡ Estou em transição de carreira, migrando para a área de tecnologia, um universo novo e cheio de desafios, mas também de grandes oportunidades!
+- 💞️ Quero colaborar com projetos que envolvam análise de dados, automação inteligente e soluções em nuvem, onde eu possa aprender e contribuir de verdade.
 
 ---
 
-## 🧠 GitHub Grade
+## 📊 GitHub Stats
 
-<div align="center">
-  
-![Grade](https://github-grade.vercel.app/api/getGrade?user=LidianeSouza)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidianeSouza&show_icons=true&count_private=true&bg_color=000000&title_color=C71585&text_color=FFFFFF&icon_color=660066&border_color=C71585)
 
-</div>
+## 📝 Top Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LidianeSouza&bg_color=000000&border_color=660066&title_color=C71585&text_color=FFFFFF)
+
+## 🚀 Projeto em destaque
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LidianeSouza&repo=sistema-bancario-inteligente&bg_color=000000&border_color=660066&show_icons=true&icon_color=30A3DC&title_color=C71585&text_color=FFFFFF)](https://github.com/LidianeSouza/sistema-bancario-inteligente)
 
 ---
 
