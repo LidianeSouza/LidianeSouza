@@ -33,7 +33,6 @@ Este é meu espaço para compartilhar minha jornada cheia de códigos, dados e d
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lidiane-souza88)
-- 💻 [GitHub](https://github.com/LidianeSouza)
 
 ---
 
